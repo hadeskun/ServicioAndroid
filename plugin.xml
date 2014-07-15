@@ -21,6 +21,6 @@
             </feature>
         </config-file>
  
-        <source-file src="src/android/ServicioAndroid.java" target-dir="src/org/devhadeskun/servicio" />      
+        <source-file src="src/ServicioAndroid.java" target-dir="src/org/devhadeskun/servicio" />      
      </platform>          
 </plugin>
